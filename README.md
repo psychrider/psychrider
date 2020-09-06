@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**psychrider/psychrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**psychrider/psychrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 -🔭 I’m currently working on imporving my Data Structures and Algorithms.
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 -📫 How to reach me: pandeyshivam.21k@gmail.com.
 -😄 Pronouns: He/Him.
 -⚡ Fun fact: Beginners try to save the queen but professional only save the king (PS. Taling about Chess).
--->
