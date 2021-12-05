@@ -10,4 +10,3 @@
 - 💬 Ask me about anything you find relevant will answer most logically with best of my knowledge.
 - 📫 How to reach me: pandeyshivam.21k@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Beginners try to save the queen but professional only save the king (Chess reference).
